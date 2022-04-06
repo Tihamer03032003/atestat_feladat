@@ -11,7 +11,7 @@ int main()
 
         maximum=szam;
     }
-    if(v[maximum]==2){
+    if(v[maximum]>=2){
         cout<<"DA";
     }
     else{cout<< "NU";
